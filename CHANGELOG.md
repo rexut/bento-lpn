@@ -1,5 +1,10 @@
 # Change Log
 
+## [v1.1.3](https://github.com/rexut/bento-ya/tree/v1.1.3) (2018-09-20)
+[Full Changelog](https://github.com/rexut/bento-ya/compare/v1.1.2...v1.1.3)
+
+**Private Development**
+
 ## [v1.1.2](https://github.com/cheeseplus/bento-ya/tree/v1.1.2) (2018-08-14)
 [Full Changelog](https://github.com/cheeseplus/bento-ya/compare/v1.1.1...v1.1.2)
 

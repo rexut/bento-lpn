@@ -4,14 +4,14 @@ require "bento/version"
 require "English"
 
 Gem::Specification.new do |gem|
-  gem.name          = "bento-ya"
+  gem.name          = "bento-lpn"
   gem.version       = Bento::VERSION
   gem.license       = "Apache-2.0"
-  gem.authors       = ["Seth Thomas"]
-  gem.email         = ["sthomas@chef.io"]
-  gem.description   = "bento-ya builds bento boxes"
+  gem.authors       = ["Stephan Linz"]
+  gem.email         = ["linz@li-pro.net"]
+  gem.description   = "bento-lpn (fork of bento-ya) builds bento boxes"
   gem.summary       = "A RubyGem for managing chef/bento builds"
-  gem.homepage      = "https://github.com/cheeseplus/bento-ya"
+  gem.homepage      = "https://github.com/rexut/bento-lpn"
 
   gem.files         = `git ls-files`.split($INPUT_RECORD_SEPARATOR)
   gem.bindir        = "bin"

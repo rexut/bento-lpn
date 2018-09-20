@@ -1,6 +1,6 @@
-[![Gem Version](https://badge.fury.io/rb/bento-ya.svg)](http://badge.fury.io/rb/bento-ya) [![Build Status Master](https://travis-ci.org/cheeseplus/bento-ya.svg?branch=master)](https://travis-ci.org/cheeseplus/bento-ya)
+[![Gem Version](https://badge.fury.io/rb/bento-ya.svg)](http://badge.fury.io/rb/bento-ya) [![Build Status Master](https://travis-ci.org/rexut/bento-ya.svg?branch=master)](https://travis-ci.org/rexut/bento-ya)
 
-# bento-ya
+# bento-lpn (fork of bento-ya)
 A RubyGem for managing chef/bento builds
 
 ## Requirements
@@ -13,10 +13,10 @@ A RubyGem for managing chef/bento builds
 Bento-ya is a RubyGem and can be installed with:
 
 ```
-$ gem install bento-ya
+$ gem install bento-lpn
 ```
 
-If you use Bundler, you can add `gem "bento-ya"` to your Gemfile and make
+If you use Bundler, you can add `gem "bento-lpn"` to your Gemfile and make
 sure to run `bundle install`.
 
 ### Using `bento`
@@ -55,7 +55,7 @@ To upload built boxes to [Atlas][atlas].
 
 ## Versioning
 
-bento-ya aims to adhere to [Semantic Versioning 2.0.0][semver].
+bento-lpn aims to adhere to [Semantic Versioning 2.0.0][semver].
 
 ## License
 
